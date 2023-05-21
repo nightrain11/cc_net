@@ -1,0 +1,14 @@
+{
+  "2019-09/zh_head_0000.json.gz": {
+    "size": 2859104,
+    "checksum": "54e1e113cf894b9d59e74ce281cdf2c249d2639e"
+  },
+  "2019-09/zh_middle_0000.json.gz": {
+    "size": 4669417,
+    "checksum": "f72c99dc24f2040ef125bd93eee6d855edb87221"
+  },
+  "2019-09/zh_tail_0000.json.gz": {
+    "size": 21527421,
+    "checksum": "6767c17e871d3e5d557ec4f624b233767e15ab1b"
+  }
+}
